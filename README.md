@@ -12,7 +12,7 @@ This project was realized in frame of Zindi competition.
 
 To achieve our goal, we use some statiscal models :
 
-    - ARIMA  </ul>
-    - SARIMAX </ul>
-    - Prophet </ul>
-    - VAR </ul>
+    - ARIMA 
+    - SARIMAX 
+    - Prophet 
+    - VAR 
