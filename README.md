@@ -8,7 +8,7 @@ This problem can be seen as a regression problem and the metric used to evaluate
 
 ## Context
 
-This project was realized in frame of Zindi competition.
+This project was realized in the context of Zindi competition.
 
 ## Models used
 
