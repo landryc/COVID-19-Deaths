@@ -4,7 +4,7 @@ The aim of this project is to Predict the Global Spread of COVID-19 over 2 month
 
 To achieve our goal, we use some statiscal model :
 <li>
-  <ul> ARIMA model </ul>
+    <ul> ARIMA model </ul>
     <ul> SARIMA model </ul>
     <ul> Prophet </ul>
 </li>
