@@ -11,6 +11,7 @@ This project was realized in frame of Zindi competition.
 ## Models used
 
 To achieve our goal, we use some statiscal models :
+
     * ARIMA 
     * SARIMAX 
     * Prophet 
